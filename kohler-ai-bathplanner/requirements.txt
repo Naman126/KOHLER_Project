@@ -1,0 +1,4 @@
+streamlit>=1.36
+matplotlib>=3.8
+anthropic>=0.34
+python-dotenv>=1.0

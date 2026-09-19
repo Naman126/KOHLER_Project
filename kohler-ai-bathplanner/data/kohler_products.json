@@ -1,0 +1,581 @@
+{
+  "_meta": {
+    "note": "PROTOTYPE CATALOG. Product names and collections are real KOHLER lines/models. Prices, and any dimension not published by KOHLER, are ESTIMATED for demo purposes only and do NOT reflect live/official KOHLER India pricing. Do not use for real quotes.",
+    "currency": "INR",
+    "price_label": "estimated_demo_price"
+  },
+  "products": [
+    {
+      "id": "T001",
+      "name": "KOHLER Numi 2.0 Comfort Height One-Piece Smart Toilet",
+      "category": "smart_toilet",
+      "price_inr": 275000,
+      "width_in": 15.1,
+      "depth_in": 26.2,
+      "height_in": 18.5,
+      "styles": [
+        "modern",
+        "minimalist",
+        "luxury"
+      ],
+      "finishes": [
+        "white",
+        "honed_black"
+      ],
+      "water_efficiency_score": 5,
+      "smart": true,
+      "features": [
+        "automatic_flush",
+        "heated_seat",
+        "bidet",
+        "ambient_lighting",
+        "bluetooth_audio",
+        "app_control"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 24,
+      "clearance_side_in": 15,
+      "source_url": "https://www.kohler.com/en/products/toilets/numi-2-0-comfort-height-one-piece-elongated-dual-flush-toilet/30754"
+    },
+    {
+      "id": "T002",
+      "name": "KOHLER Numi Comfort Height One-Piece Smart Toilet (K-3901)",
+      "category": "smart_toilet",
+      "price_inr": 240000,
+      "width_in": 14.6,
+      "depth_in": 25.7,
+      "height_in": 22.75,
+      "styles": [
+        "modern",
+        "minimalist"
+      ],
+      "finishes": [
+        "white"
+      ],
+      "water_efficiency_score": 4,
+      "smart": true,
+      "features": [
+        "automatic_flush",
+        "heated_seat",
+        "bidet",
+        "ambient_lighting",
+        "bluetooth_audio"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 24,
+      "clearance_side_in": 15,
+      "source_url": "https://la.kohler.com/en/product-detail/3901"
+    },
+    {
+      "id": "T003",
+      "name": "KOHLER Veil Intelligent One-Piece Toilet with Bidet Seat",
+      "category": "smart_toilet",
+      "price_inr": 165000,
+      "width_in": 14.5,
+      "depth_in": 27.5,
+      "height_in": 22.5,
+      "styles": [
+        "modern",
+        "japanese_zen",
+        "minimalist"
+      ],
+      "finishes": [
+        "white"
+      ],
+      "water_efficiency_score": 5,
+      "smart": true,
+      "features": [
+        "heated_seat",
+        "bidet",
+        "auto_open_close",
+        "remote_control"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 22,
+      "clearance_side_in": 15,
+      "source_url": "https://www.kohler.com/en/products/toilets/shop-veil"
+    },
+    {
+      "id": "T004",
+      "name": "KOHLER San Souci One-Piece Toilet with C3 Intelligent Bidet Seat",
+      "category": "smart_toilet",
+      "price_inr": 95000,
+      "width_in": 14.25,
+      "depth_in": 28.0,
+      "height_in": 29.0,
+      "styles": [
+        "classic",
+        "modern"
+      ],
+      "finishes": [
+        "white",
+        "biscuit"
+      ],
+      "water_efficiency_score": 4,
+      "smart": true,
+      "features": [
+        "heated_seat",
+        "bidet",
+        "warm_air_dryer"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 24,
+      "clearance_side_in": 15,
+      "source_url": "https://www.kohler.com/en/products/toilets/shop-san-souci"
+    },
+    {
+      "id": "T005",
+      "name": "KOHLER PureWash E930 Bidet Seat on Compact Elongated Toilet",
+      "category": "smart_toilet",
+      "price_inr": 68000,
+      "width_in": 14.0,
+      "depth_in": 27.0,
+      "height_in": 15.5,
+      "styles": [
+        "minimalist",
+        "modern"
+      ],
+      "finishes": [
+        "white"
+      ],
+      "water_efficiency_score": 5,
+      "smart": true,
+      "features": [
+        "heated_seat",
+        "bidet",
+        "self_cleaning_wand"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 21,
+      "clearance_side_in": 14,
+      "source_url": "https://www.kohler.com/en/products/bidet-seats/shop-purewash"
+    },
+    {
+      "id": "S001",
+      "name": "KOHLER Statement Rain Shower System with Anthem Digital Valve",
+      "category": "shower",
+      "price_inr": 145000,
+      "width_in": 36,
+      "depth_in": 36,
+      "height_in": 84,
+      "styles": [
+        "luxury",
+        "modern"
+      ],
+      "finishes": [
+        "matte_black",
+        "polished_chrome",
+        "brushed_moderne_brass"
+      ],
+      "water_efficiency_score": 3,
+      "smart": true,
+      "features": [
+        "app_control",
+        "rain_head",
+        "handshower",
+        "body_sprays",
+        "digital_temperature_control"
+      ],
+      "installation_type": "wall_mount",
+      "clearance_front_in": 30,
+      "clearance_side_in": 30,
+      "source_url": "https://www.kohler.com/en/products/cross-category/statement-and-anthem/shop-statement-and-anthem-showering-collections"
+    },
+    {
+      "id": "S002",
+      "name": "KOHLER Purist Single-Function Rain Shower with Thermostatic Valve",
+      "category": "shower",
+      "price_inr": 62000,
+      "width_in": 32,
+      "depth_in": 32,
+      "height_in": 80,
+      "styles": [
+        "minimalist",
+        "modern",
+        "japanese_zen"
+      ],
+      "finishes": [
+        "polished_chrome",
+        "vibrant_brushed_nickel",
+        "matte_black"
+      ],
+      "water_efficiency_score": 4,
+      "smart": false,
+      "features": [
+        "rain_head",
+        "thermostatic_control"
+      ],
+      "installation_type": "wall_mount",
+      "clearance_front_in": 28,
+      "clearance_side_in": 28,
+      "source_url": "https://www.kohler.com/en/products/showers/shop-purist-shower-heads"
+    },
+    {
+      "id": "S003",
+      "name": "KOHLER Statement VES WaterSense Showerhead System",
+      "category": "shower",
+      "price_inr": 38000,
+      "width_in": 30,
+      "depth_in": 30,
+      "height_in": 78,
+      "styles": [
+        "modern",
+        "minimalist",
+        "japanese_zen"
+      ],
+      "finishes": [
+        "polished_chrome",
+        "matte_black"
+      ],
+      "water_efficiency_score": 5,
+      "smart": false,
+      "features": [
+        "watersense_certified",
+        "low_flow",
+        "handshower"
+      ],
+      "installation_type": "wall_mount",
+      "clearance_front_in": 26,
+      "clearance_side_in": 26,
+      "source_url": "https://kbbonline.com/?p=84299"
+    },
+    {
+      "id": "S004",
+      "name": "KOHLER Devonshire Multifunction Shower Kit",
+      "category": "shower",
+      "price_inr": 22000,
+      "width_in": 30,
+      "depth_in": 30,
+      "height_in": 76,
+      "styles": [
+        "classic",
+        "modern"
+      ],
+      "finishes": [
+        "polished_chrome",
+        "brushed_nickel"
+      ],
+      "water_efficiency_score": 3,
+      "smart": false,
+      "features": [
+        "handshower",
+        "slide_bar"
+      ],
+      "installation_type": "wall_mount",
+      "clearance_front_in": 26,
+      "clearance_side_in": 26,
+      "source_url": "https://www.kohler.com/en/products/showers/shop-devonshire"
+    },
+    {
+      "id": "S005",
+      "name": "KOHLER Compact Corner Shower Enclosure with Purist Trim",
+      "category": "shower",
+      "price_inr": 78000,
+      "width_in": 30,
+      "depth_in": 30,
+      "height_in": 78,
+      "styles": [
+        "minimalist",
+        "japanese_zen",
+        "modern"
+      ],
+      "finishes": [
+        "matte_black",
+        "polished_chrome"
+      ],
+      "water_efficiency_score": 4,
+      "smart": false,
+      "features": [
+        "glass_enclosure",
+        "rain_head",
+        "compact_footprint"
+      ],
+      "installation_type": "wall_mount",
+      "clearance_front_in": 24,
+      "clearance_side_in": 24,
+      "source_url": "https://www.kohler.com/en/products/showers/shop-shower-doors/purist-steam-pivot-shower-door-with-transom-and-opaque-glass-702224-d4"
+    },
+    {
+      "id": "F001",
+      "name": "KOHLER Purist Single-Handle Widespread Bathroom Faucet",
+      "category": "faucet",
+      "price_inr": 18000,
+      "width_in": 8,
+      "depth_in": 6,
+      "height_in": 7.5,
+      "styles": [
+        "minimalist",
+        "modern",
+        "japanese_zen"
+      ],
+      "finishes": [
+        "polished_chrome",
+        "vibrant_brushed_nickel",
+        "matte_black"
+      ],
+      "water_efficiency_score": 5,
+      "smart": false,
+      "features": [
+        "watersense_certified",
+        "single_handle"
+      ],
+      "installation_type": "deck_mount",
+      "clearance_front_in": 4,
+      "clearance_side_in": 4,
+      "source_url": "https://www.kohler.com/en/products/showers/shop-shower-fittings/purist-14-pivot-handle-705767"
+    },
+    {
+      "id": "F002",
+      "name": "KOHLER Components Widespread Bathroom Sink Faucet",
+      "category": "faucet",
+      "price_inr": 24000,
+      "width_in": 9,
+      "depth_in": 6,
+      "height_in": 8,
+      "styles": [
+        "modern",
+        "luxury"
+      ],
+      "finishes": [
+        "matte_black",
+        "polished_nickel",
+        "brushed_gold"
+      ],
+      "water_efficiency_score": 4,
+      "smart": false,
+      "features": [
+        "watersense_certified",
+        "mix_and_match"
+      ],
+      "installation_type": "deck_mount",
+      "clearance_front_in": 4,
+      "clearance_side_in": 4,
+      "source_url": "https://www.kohler.com/en/collections/components"
+    },
+    {
+      "id": "F003",
+      "name": "KOHLER Artifacts Single-Handle Centerset Faucet",
+      "category": "faucet",
+      "price_inr": 16000,
+      "width_in": 7,
+      "depth_in": 6,
+      "height_in": 9,
+      "styles": [
+        "classic",
+        "luxury"
+      ],
+      "finishes": [
+        "polished_chrome",
+        "oil_rubbed_bronze"
+      ],
+      "water_efficiency_score": 4,
+      "smart": false,
+      "features": [
+        "watersense_certified",
+        "single_handle"
+      ],
+      "installation_type": "deck_mount",
+      "clearance_front_in": 4,
+      "clearance_side_in": 4,
+      "source_url": "https://www.kohler.com/en/collections/artifacts"
+    },
+    {
+      "id": "F004",
+      "name": "KOHLER Simplice Touchless Sensor Bathroom Faucet",
+      "category": "faucet",
+      "price_inr": 32000,
+      "width_in": 8,
+      "depth_in": 6,
+      "height_in": 8.5,
+      "styles": [
+        "modern",
+        "minimalist"
+      ],
+      "finishes": [
+        "polished_chrome",
+        "matte_black"
+      ],
+      "water_efficiency_score": 5,
+      "smart": true,
+      "features": [
+        "touchless_sensor",
+        "watersense_certified",
+        "app_control"
+      ],
+      "installation_type": "deck_mount",
+      "clearance_front_in": 4,
+      "clearance_side_in": 4,
+      "source_url": "https://www.kohler.com/en/collections/simplice"
+    },
+    {
+      "id": "F005",
+      "name": "KOHLER Tone Single-Handle Compact Bathroom Faucet",
+      "category": "faucet",
+      "price_inr": 9000,
+      "width_in": 6,
+      "depth_in": 5,
+      "height_in": 6.5,
+      "styles": [
+        "minimalist",
+        "japanese_zen",
+        "modern"
+      ],
+      "finishes": [
+        "polished_chrome",
+        "matte_black"
+      ],
+      "water_efficiency_score": 5,
+      "smart": false,
+      "features": [
+        "watersense_certified",
+        "compact_footprint"
+      ],
+      "installation_type": "deck_mount",
+      "clearance_front_in": 3,
+      "clearance_side_in": 3,
+      "source_url": "https://www.kohler.com/en/collections/tone"
+    },
+    {
+      "id": "V001",
+      "name": "KOHLER Veil 36-inch Wall-Hung Single-Sink Vanity",
+      "category": "vanity",
+      "price_inr": 78000,
+      "width_in": 36,
+      "depth_in": 20,
+      "height_in": 22,
+      "styles": [
+        "minimalist",
+        "japanese_zen",
+        "modern"
+      ],
+      "finishes": [
+        "white_oak",
+        "matte_white"
+      ],
+      "water_efficiency_score": 3,
+      "smart": false,
+      "features": [
+        "wall_hung",
+        "floating",
+        "integrated_sink",
+        "soft_close_drawers"
+      ],
+      "installation_type": "wall_mount",
+      "clearance_front_in": 21,
+      "clearance_side_in": 2,
+      "source_url": "https://www.kohler.com/en/products/bathroom-sinks/shop-veil"
+    },
+    {
+      "id": "V002",
+      "name": "KOHLER Tresham 30-inch Vanity with Vitreous China Top",
+      "category": "vanity",
+      "price_inr": 42000,
+      "width_in": 30,
+      "depth_in": 21,
+      "height_in": 34,
+      "styles": [
+        "classic",
+        "modern"
+      ],
+      "finishes": [
+        "linen_white",
+        "mohair_grey"
+      ],
+      "water_efficiency_score": 3,
+      "smart": false,
+      "features": [
+        "soft_close_drawers",
+        "integrated_sink"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 24,
+      "clearance_side_in": 2,
+      "source_url": "https://www.kohler.com/en/collections/tresham"
+    },
+    {
+      "id": "V003",
+      "name": "KOHLER Composed 24-inch Compact Vanity",
+      "category": "vanity",
+      "price_inr": 32000,
+      "width_in": 24,
+      "depth_in": 19,
+      "height_in": 34,
+      "styles": [
+        "minimalist",
+        "modern",
+        "japanese_zen"
+      ],
+      "finishes": [
+        "white_oak",
+        "walnut"
+      ],
+      "water_efficiency_score": 3,
+      "smart": false,
+      "features": [
+        "compact_footprint",
+        "integrated_sink"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 22,
+      "clearance_side_in": 2,
+      "source_url": "https://www.kohler.com/en/collections/composed"
+    },
+    {
+      "id": "V004",
+      "name": "KOHLER Jacquard 42-inch Double-Drawer Vanity",
+      "category": "vanity",
+      "price_inr": 58000,
+      "width_in": 42,
+      "depth_in": 22,
+      "height_in": 34,
+      "styles": [
+        "luxury",
+        "classic"
+      ],
+      "finishes": [
+        "linen_white",
+        "espresso"
+      ],
+      "water_efficiency_score": 3,
+      "smart": false,
+      "features": [
+        "soft_close_drawers",
+        "integrated_sink",
+        "storage_heavy"
+      ],
+      "installation_type": "floor_mount",
+      "clearance_front_in": 24,
+      "clearance_side_in": 2,
+      "source_url": "https://www.kohler.com/en/products/bathroom-vanities"
+    },
+    {
+      "id": "V005",
+      "name": "KOHLER Parallel 28-inch Wall-Hung Vanity with Smart Mirror",
+      "category": "vanity",
+      "price_inr": 72000,
+      "width_in": 28,
+      "depth_in": 19,
+      "height_in": 21,
+      "styles": [
+        "modern",
+        "minimalist"
+      ],
+      "finishes": [
+        "matte_white",
+        "graphite"
+      ],
+      "water_efficiency_score": 3,
+      "smart": true,
+      "features": [
+        "wall_hung",
+        "floating",
+        "led_mirror",
+        "app_control"
+      ],
+      "installation_type": "wall_mount",
+      "clearance_front_in": 21,
+      "clearance_side_in": 2,
+      "source_url": "https://www.kohler.com/en/collections/parallel"
+    }
+  ]
+}
